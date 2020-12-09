@@ -1,0 +1,24 @@
+C:\Felipe\trabPDC\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\bin\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.exe
+C:\Felipe\trabPDC\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\bin\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.deps.json
+C:\Felipe\trabPDC\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\bin\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.runtimeconfig.json
+C:\Felipe\trabPDC\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\bin\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.runtimeconfig.dev.json
+C:\Felipe\trabPDC\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\bin\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.dll
+C:\Felipe\trabPDC\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\bin\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.pdb
+C:\Felipe\trabPDC\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\obj\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.csprojAssemblyReference.cache
+C:\Felipe\trabPDC\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\obj\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.AssemblyInfoInputs.cache
+C:\Felipe\trabPDC\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\obj\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.AssemblyInfo.cs
+C:\Felipe\trabPDC\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\obj\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.dll
+C:\Felipe\trabPDC\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\obj\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.pdb
+C:\Users\r10va\OneDrive\Área de Trabalho\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\bin\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.exe
+C:\Users\r10va\OneDrive\Área de Trabalho\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\bin\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.deps.json
+C:\Users\r10va\OneDrive\Área de Trabalho\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\bin\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.runtimeconfig.json
+C:\Users\r10va\OneDrive\Área de Trabalho\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\bin\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.runtimeconfig.dev.json
+C:\Users\r10va\OneDrive\Área de Trabalho\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\bin\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.dll
+C:\Users\r10va\OneDrive\Área de Trabalho\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\bin\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.pdb
+C:\Users\r10va\OneDrive\Área de Trabalho\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\obj\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.csprojAssemblyReference.cache
+C:\Users\r10va\OneDrive\Área de Trabalho\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\obj\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.AssemblyInfoInputs.cache
+C:\Users\r10va\OneDrive\Área de Trabalho\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\obj\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.AssemblyInfo.cs
+C:\Users\r10va\OneDrive\Área de Trabalho\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\obj\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.csproj.CoreCompileInputs.cache
+C:\Users\r10va\OneDrive\Área de Trabalho\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\obj\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.dll
+C:\Users\r10va\OneDrive\Área de Trabalho\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\obj\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.pdb
+C:\Users\r10va\OneDrive\Área de Trabalho\TrabalhoPDC-versao1.0.3\TrabalhoPDC-versao1.0.3\obj\Debug\netcoreapp3.1\TrabalhoPDC-versao1.0.3.genruntimeconfig.cache
